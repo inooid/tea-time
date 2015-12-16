@@ -18,4 +18,4 @@ Development stuff
 - [x] Webpack
 - [ ] Autoprefixing
 - [ ] TravisCI implementation
-- [ ] Unit tests
+- [ ] Unit tests (Chai, Mocha, something? Suggestions?)
