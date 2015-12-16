@@ -4,6 +4,11 @@ module.exports = {
     path: __dirname + '/dist/scripts/',
     filename: 'bundle.js',
   },
+  resolve: {
+    alias: {
+      styles: __dirname + '/src/styles',
+    },
+  },
   module: {
     loaders: [
       {
