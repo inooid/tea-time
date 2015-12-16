@@ -3,11 +3,18 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  repository: "https://github.com/inooid/tea-time",
+    
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Boyd - JustDrawCats@gmail.com",
   "license": "ISC",
+    
+  "dependencies": {
+    "angular": "^1.4.8"
+  },
+    
   "devDependencies": {
     "babel-core": "^6.3.17",
     "babel-loader": "^6.2.0",
