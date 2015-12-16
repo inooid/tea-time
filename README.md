@@ -15,5 +15,5 @@ Development stuff
 - [ ] Eslint with AirBnB style guide
 - [ ] Auto reloading
 - [ ] Sass (not SCSS)
-- [ ] Gulp / Webpack?
+- [x] Webpack
 - [ ] Autoprefixing
