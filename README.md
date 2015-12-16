@@ -11,7 +11,7 @@ What features do we want?
 Development stuff
 -----------------
 
-- [ ] We want Babel 6
+- [x] We want Babel 6
 - [ ] Eslint with AirBnB style guide
 - [ ] Auto reloading
 - [ ] Sass (not SCSS)
