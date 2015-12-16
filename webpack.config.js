@@ -1,16 +1,13 @@
 module.exports = {
-  entry: "./src/app.js",
+  entry: './src/scripts/script.js',
   output: {
-    path: __dirname + '/dist',
-    filename: "bundle.js"
+    path: __dirname + '/dist/scripts/',
+    filename: 'bundle.js',
   },
   module: {
     loaders: [
-      {
-        test: /\.js$/,
-        exclude: /node_modules/,
-        loader: "babel-loader"
-      }
-    ]
-  }
+      { test: /\.js$/, loader: 'babel-loader', exclude: /node_modules/ },
+      { test: /\.js$/, loader: 'eslint-loader', exclude: /node_modules/ },
+    ],
+  },
 };
