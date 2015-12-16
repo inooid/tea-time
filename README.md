@@ -17,3 +17,5 @@ Development stuff
 - [ ] Sass (not SCSS)
 - [x] Webpack
 - [ ] Autoprefixing
+- [ ] TravisCI implementation
+- [ ] Unit tests
