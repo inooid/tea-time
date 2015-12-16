@@ -20,8 +20,8 @@
     "webpack": "^1.12.9"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/inooid/tea-time.git"
+    "type": "git",
+    "url": "https://github.com/inooid/tea-time.git"
   },
   "bugs": {
     "url": "https://github.com/inooid/tea-time/issues"
