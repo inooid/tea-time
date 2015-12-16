@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.3.17",
+    "babel-loader": "^6.2.0",
     "webpack": "^1.12.9"
   }
 }
