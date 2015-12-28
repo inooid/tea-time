@@ -1,1 +1,1 @@
-console.log('Tea Time!');
+var dummy = module.exports = true;
